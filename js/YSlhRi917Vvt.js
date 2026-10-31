@@ -1,0 +1,1 @@
+/* khmer-topup: announcement bar is switched off */
